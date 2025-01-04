@@ -50,8 +50,8 @@ This is just a small library I rolled to get the ePaper display working with a E
 | ------ | ------- |
 | VCC    | 3.3V    |
 | GND    | GND     |
-| DIN    | GPIO6   |
-| CLK    | GPIO4   |
+| MOSI   | GPIO6   |
+| SCK    | GPIO4   |
 | CS     | GPIO7   |
 | DC     | GPIO1   |
 | RST    | GPIO2   |
